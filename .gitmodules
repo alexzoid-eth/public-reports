@@ -1,12 +1,12 @@
 [submodule "solodit_content"]
-	path = solodit_content
+	path = solodit
 	url = https://github.com/solodit/solodit_content
 [submodule "cyfrin-audit-reports"]
-	path = cyfrin-audit-reports
+	path = cyfrin
 	url = https://github.com/Cyfrin/cyfrin-audit-reports
 [submodule "SecurityReports"]
-	path = SecurityReports
+	path = certora
 	url = https://github.com/Certora/SecurityReports
 [submodule "audits"]
-	path = audits
+	path = pashov
 	url = https://github.com/pashov/audits
