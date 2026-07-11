@@ -206,3 +206,6 @@
 [submodule "zobront"]
 	path = zobront
 	url = https://github.com/zobront/audits
+[submodule "defihacklabs"]
+	path = defihacklabs
+	url = https://github.com/SunWeb3Sec/DeFiHackLabs
