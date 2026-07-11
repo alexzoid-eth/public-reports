@@ -112,6 +112,7 @@
 [submodule "pessimistic"]
 	path = pessimistic
 	url = https://github.com/pessimistic-io/audits
+	ignore = dirty
 [submodule "rezolv"]
 	path = rezolv
 	url = https://github.com/RezolvSolutions/Audits
