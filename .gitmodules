@@ -13,3 +13,6 @@
 [submodule "trailofbits"]
 	path = trailofbits
 	url = https://github.com/trailofbits/publications
+[submodule "spearbit"]
+	path = spearbit
+	url = https://github.com/spearbit/portfolio
