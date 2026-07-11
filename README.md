@@ -42,6 +42,7 @@ were added only if the upstream repository:
 | Directory | Source | Upstream |
 |---|---|---|
 | `defihacklabs` | DeFiHackLabs (incident PoC reproductions) | [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) |
+| `evmattacks` | Coinspect Learn EVM Attacks (incident analyses & PoCs) | [coinspect/learn-evm-attacks](https://github.com/coinspect/learn-evm-attacks) |
 | `solodit` | Solodit (multi-firm report content) | [solodit/solodit_content](https://github.com/solodit/solodit_content) |
 
 ### Audit companies & platforms

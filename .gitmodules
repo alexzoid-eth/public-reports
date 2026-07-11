@@ -209,3 +209,6 @@
 [submodule "defihacklabs"]
 	path = defihacklabs
 	url = https://github.com/SunWeb3Sec/DeFiHackLabs
+[submodule "evmattacks"]
+	path = evmattacks
+	url = https://github.com/coinspect/learn-evm-attacks
