@@ -28,3 +28,6 @@
 [submodule "shieldify"]
 	path = shieldify
 	url = https://github.com/shieldify-security/audits-portfolio
+[submodule "egis"]
+	path = egis
+	url = https://github.com/Egis-Security/audits
