@@ -22,3 +22,6 @@
 [submodule "sigp"]
 	path = sigp
 	url = https://github.com/sigp/public-audits
+[submodule "hexens"]
+	path = hexens
+	url = https://github.com/Hexens/Smart-Contract-Review-Public-Reports
