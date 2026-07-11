@@ -16,3 +16,6 @@
 [submodule "spearbit"]
 	path = spearbit
 	url = https://github.com/spearbit/portfolio
+[submodule "zellic"]
+	path = zellic
+	url = https://github.com/Zellic/publications
