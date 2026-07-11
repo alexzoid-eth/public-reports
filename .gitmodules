@@ -31,3 +31,177 @@
 [submodule "egis"]
 	path = egis
 	url = https://github.com/Egis-Security/audits
+[submodule "abdk"]
+	path = abdk
+	url = https://github.com/abdk-consulting/audits
+[submodule "arbitraryexecution"]
+	path = arbitraryexecution
+	url = https://github.com/arbitraryexecution/publications
+[submodule "bailsec"]
+	path = bailsec
+	url = https://github.com/bailsec/BailSec
+[submodule "blocksec"]
+	path = blocksec
+	url = https://github.com/blocksecteam/audit-reports
+[submodule "cdsecurity"]
+	path = cdsecurity
+	url = https://github.com/CDSecurity/audits
+[submodule "chainsafe"]
+	path = chainsafe
+	url = https://github.com/ChainSafe/audits
+[submodule "clarity"]
+	path = clarity
+	url = https://github.com/Clarity-Alliance/audits
+[submodule "coinspect"]
+	path = coinspect
+	url = https://github.com/coinspect/publications
+[submodule "credshields"]
+	path = credshields
+	url = https://github.com/Credshields/audit-reports
+[submodule "cystack"]
+	path = cystack
+	url = https://github.com/cystack/security-audit-reports
+[submodule "decurity"]
+	path = decurity
+	url = https://github.com/Decurity/audits
+[submodule "dedaub"]
+	path = dedaub
+	url = https://github.com/Dedaub/audits
+[submodule "exvul"]
+	path = exvul
+	url = https://github.com/ExVul-Sec/AuditReport
+[submodule "g0group"]
+	path = g0group
+	url = https://github.com/g0-group/Audits
+[submodule "guardian"]
+	path = guardian
+	url = https://github.com/GuardianAudits/Audits
+[submodule "guardianlab"]
+	path = guardianlab
+	url = https://github.com/GuardianAudits/DefenderAudits
+[submodule "halborn"]
+	path = halborn
+	url = https://github.com/HalbornSecurity/PublicReports
+[submodule "inference"]
+	path = inference
+	url = https://github.com/InferenceAG/ReportPublications
+[submodule "informal"]
+	path = informal
+	url = https://github.com/informalsystems/audits
+[submodule "kalos"]
+	path = kalos
+	url = https://github.com/kalos-xyz/Publications
+[submodule "matterlabs"]
+	path = matterlabs
+	url = https://github.com/matter-labs-audits/reports
+[submodule "mixbytes"]
+	path = mixbytes
+	url = https://github.com/mixbytes/audits_public
+[submodule "nethermind"]
+	path = nethermind
+	url = https://github.com/NethermindEth/PublicAuditReports
+[submodule "oaksecurity"]
+	path = oaksecurity
+	url = https://github.com/oak-security/audit-reports
+[submodule "oxorio"]
+	path = oxorio
+	url = https://github.com/oxor-io/public_audits
+[submodule "peckshield"]
+	path = peckshield
+	url = https://github.com/peckshield/publications
+[submodule "pessimistic"]
+	path = pessimistic
+	url = https://github.com/pessimistic-io/audits
+[submodule "rezolv"]
+	path = rezolv
+	url = https://github.com/RezolvSolutions/Audits
+[submodule "rugdog"]
+	path = rugdog
+	url = https://github.com/rugdognet/reports
+[submodule "runtimeverification"]
+	path = runtimeverification
+	url = https://github.com/runtimeverification/publications
+[submodule "sbsecurity"]
+	path = sbsecurity
+	url = https://github.com/SB-Security/audits
+[submodule "sec3"]
+	path = sec3
+	url = https://github.com/sec3-service/reports
+[submodule "shellboxes"]
+	path = shellboxes
+	url = https://github.com/shellboxes/public-audit-reports
+[submodule "sherlock"]
+	path = sherlock
+	url = https://github.com/sherlock-protocol/sherlock-reports
+[submodule "slowmist"]
+	path = slowmist
+	url = https://github.com/slowmist/Knowledge-Base
+[submodule "solidified"]
+	path = solidified
+	url = https://github.com/solidified-platform/audits
+[submodule "solidproof"]
+	path = solidproof
+	url = https://github.com/solidproof/Projects
+[submodule "statemind"]
+	path = statemind
+	url = https://github.com/statemindio/public-audits
+[submodule "techaudit"]
+	path = techaudit
+	url = https://github.com/Tech-Audit/Smart-Contract-Audits
+[submodule "truscova"]
+	path = truscova
+	url = https://github.com/Truscova/Reports
+[submodule "verichains"]
+	path = verichains
+	url = https://github.com/verichains/public-audit-reports
+[submodule "yacademy"]
+	path = yacademy
+	url = https://github.com/yAudit/fellowship-audits
+[submodule "yaudit"]
+	path = yaudit
+	url = https://github.com/yAudit/reports
+[submodule "zealynx"]
+	path = zealynx
+	url = https://github.com/ZealynxSecurity/Zealynx
+[submodule "zokyo"]
+	path = zokyo
+	url = https://github.com/zokyo-sec/audit-reports
+[submodule "0xguard"]
+	path = 0xguard
+	url = https://github.com/0xGuard-com/audit-reports
+[submodule "midgar"]
+	path = midgar
+	url = https://github.com/midgar-audits/public-audits
+[submodule "rapidlabs"]
+	path = rapidlabs
+	url = https://github.com/rapidlabsfinance/reports
+[submodule "abarbatei"]
+	path = abarbatei
+	url = https://github.com/abarbatei/audits
+[submodule "romeroadrian"]
+	path = romeroadrian
+	url = https://github.com/romeroadrian/audits
+[submodule "akshaysrivastav"]
+	path = akshaysrivastav
+	url = https://github.com/akshaysrivastav/audits
+[submodule "frankcastle"]
+	path = frankcastle
+	url = https://github.com/Frankcastleauditor/public-audits
+[submodule "windhustler"]
+	path = windhustler
+	url = https://github.com/windhustler/audits
+[submodule "jakubheba"]
+	path = jakubheba
+	url = https://github.com/jakub-heba/portfolio
+[submodule "marchev"]
+	path = marchev
+	url = https://github.com/marchev/security-reviews
+[submodule "milotruck"]
+	path = milotruck
+	url = https://github.com/MiloTruck/audits
+[submodule "sparkware"]
+	path = sparkware
+	url = https://github.com/JeffCX/Sparkware-audit-portfolio
+[submodule "zobront"]
+	path = zobront
+	url = https://github.com/zobront/audits
