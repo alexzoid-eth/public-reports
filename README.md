@@ -4,23 +4,6 @@ A curated collection of public web3 / smart contract security audit reports,
 aggregated as git submodules pointing at the upstream repositories of audit
 firms, contest platforms, and independent security researchers.
 
-## Usage
-
-```bash
-# clone without submodule content (fast)
-git clone https://github.com/alexzoid-eth/public-reports
-cd public-reports
-
-# initialize only the sources you need
-git submodule update --init trailofbits spearbit sherlock
-
-# ... or everything (~28 GB)
-git submodule update --init
-
-# bump a submodule to the latest upstream state
-git submodule update --remote trailofbits
-```
-
 ## Sources
 
 ### Aggregators & incident databases
