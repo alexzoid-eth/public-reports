@@ -4,8 +4,6 @@ A curated collection of public web3 / smart contract security audit reports,
 aggregated as git submodules pointing at the upstream repositories of audit
 firms, contest platforms, and independent security researchers.
 
-Full checkout size is roughly **28 GB**, so prefer selective initialization.
-
 ## Usage
 
 ```bash
@@ -22,18 +20,6 @@ git submodule update --init
 # bump a submodule to the latest upstream state
 git submodule update --remote trailofbits
 ```
-
-## Selection criteria
-
-Sources discovered via the
-[0xNazgul/Blockchain-Security-Audit-List](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
-were added only if the upstream repository:
-
-1. contains actual audit / security-review report files (PDF or Markdown)
-   stored in the repository itself — link-only portfolios were excluded;
-2. covers web3 / blockchain security (smart contracts, DeFi, bridges,
-   wallets, L1/L2, zk);
-3. had report files added within the last 3 years (cutoff 2023-07-11).
 
 ## Sources
 
@@ -122,11 +108,3 @@ were added only if the upstream repository:
 | `sparkware` | Sparkware (JeffCX) | [JeffCX/Sparkware-audit-portfolio](https://github.com/JeffCX/Sparkware-audit-portfolio) |
 | `windhustler` | GiuseppeDeLaZara (windhustler) | [windhustler/audits](https://github.com/windhustler/audits) |
 | `zobront` | Zobront | [zobront/audits](https://github.com/zobront/audits) |
-
-## Notes
-
-- `pessimistic` upstream contains file paths that differ only by letter case,
-  which permanently shows as modified content on case-insensitive filesystems
-  (macOS/Windows). The submodule is configured with `ignore = dirty`.
-- Contest platforms with per-contest repositories (Code4rena, Secure3) are not
-  included here; Code4rena findings are tracked separately outside this repo.
