@@ -19,3 +19,6 @@
 [submodule "zellic"]
 	path = zellic
 	url = https://github.com/Zellic/publications
+[submodule "sigp"]
+	path = sigp
+	url = https://github.com/sigp/public-audits
