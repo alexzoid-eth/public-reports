@@ -10,3 +10,6 @@
 [submodule "audits"]
 	path = pashov
 	url = https://github.com/pashov/audits
+[submodule "trailofbits"]
+	path = trailofbits
+	url = https://github.com/trailofbits/publications
