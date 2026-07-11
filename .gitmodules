@@ -25,3 +25,6 @@
 [submodule "hexens"]
 	path = hexens
 	url = https://github.com/Hexens/Smart-Contract-Review-Public-Reports
+[submodule "shieldify"]
+	path = shieldify
+	url = https://github.com/shieldify-security/audits-portfolio
