@@ -212,3 +212,6 @@
 [submodule "evmattacks"]
 	path = evmattacks
 	url = https://github.com/coinspect/learn-evm-attacks
+[submodule "alexzoid"]
+	path = alexzoid
+	url = https://github.com/alexzoid-eth/fv-track-record

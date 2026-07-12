@@ -12,6 +12,7 @@ firms, contest platforms, and independent security researchers.
 | `abarbatei` | ABA (abarbatei) | [abarbatei/audits](https://github.com/abarbatei/audits) |
 | `abdk` | ABDK Consulting | [abdk-consulting/audits](https://github.com/abdk-consulting/audits) |
 | `akshaysrivastav` | Akshay Srivastav | [akshaysrivastav/audits](https://github.com/akshaysrivastav/audits) |
+| `alexzoid` | alexzoid (Certora FV specifications & reports) | [alexzoid-eth/fv-track-record](https://github.com/alexzoid-eth/fv-track-record) |
 | `arbitraryexecution` | Arbitrary Execution | [arbitraryexecution/publications](https://github.com/arbitraryexecution/publications) |
 | `bailsec` | Bail Security | [bailsec/BailSec](https://github.com/bailsec/BailSec) |
 | `blocksec` | BlockSec | [blocksecteam/audit-reports](https://github.com/blocksecteam/audit-reports) |
