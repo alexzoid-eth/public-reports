@@ -81,14 +81,38 @@ firms, contest platforms, and independent security researchers.
 
 | Directory | Source | Upstream |
 |---|---|---|
+| `0x52` | 0x52 (IAm0x52) | [IAm0x52/audit-portfolio](https://github.com/IAm0x52/audit-portfolio) |
+| `0xnirlin` | Nirlin (0xnirlin) | [0xnirlin/Audit-Reports-](https://github.com/0xnirlin/Audit-Reports-) |
+| `0xsimao` | 0xSimao | [0xsimao/audits](https://github.com/0xsimao/audits) |
 | `abarbatei` | ABA (abarbatei) | [abarbatei/audits](https://github.com/abarbatei/audits) |
 | `akshaysrivastav` | Akshay Srivastav | [akshaysrivastav/audits](https://github.com/akshaysrivastav/audits) |
 | `alexzoid` | alexzoid (Certora FV specifications & reports) | [alexzoid-eth/fv-track-record](https://github.com/alexzoid-eth/fv-track-record) |
+| `alqaqa` | Al-Qa'qa' (Al-Qa-qa) | [Al-Qa-qa/audits](https://github.com/Al-Qa-qa/audits) |
+| `bogocvetkov` | Bogomil Tsvetkov (b0g0) | [BogoCvetkov/portfolio](https://github.com/BogoCvetkov/portfolio) |
+| `dadekuma` | DadeKuma | [DadeKuma/audits](https://github.com/DadeKuma/audits) |
 | `frankcastle` | Frank Castle | [Frankcastleauditor/public-audits](https://github.com/Frankcastleauditor/public-audits) |
+| `gkrastenov` | Georgi Krastenov (gkrastenov) | [gkrastenov/audits](https://github.com/gkrastenov/audits) |
+| `ihtisham` | Ihtisham Ullah (ihtisham-sudo) | [ihtisham-sudo/private-audit-reports](https://github.com/ihtisham-sudo/private-audit-reports) |
+| `jacobolansac` | Jacobo Lansac (jacopod) | [JacoboLansac/audits](https://github.com/JacoboLansac/audits) |
 | `jakubheba` | Jakub Heba | [jakub-heba/portfolio](https://github.com/jakub-heba/portfolio) |
+| `kadenzipfel` | Kaden Zipfel (0xKaden) | [kadenzipfel/audit-portfolio](https://github.com/kadenzipfel/audit-portfolio) |
+| `kiki` | Kiki (devNamedKiki) | [devNamedKiki/Audits](https://github.com/devNamedKiki/Audits) |
+| `kristiyanmaslarov` | Kristiyan Maslarov (Kris Paladin) | [kristiyanmaslarov/Audits](https://github.com/kristiyanmaslarov/Audits) |
+| `leeftk` | Lee (33Audits) | [leeftk/audit-reports](https://github.com/leeftk/audit-reports) |
+| `maarcweiss` | 0xWeiss (Marc Weiss) | [maarcweiss/audits](https://github.com/maarcweiss/audits) |
+| `mahdirostami` | mahdiRostami (0xmahdirostami) | [0xmahdirostami/audits](https://github.com/0xmahdirostami/audits) |
 | `marchev` | Martin Marchev | [marchev/security-reviews](https://github.com/marchev/security-reviews) |
 | `milotruck` | MiloTruck | [MiloTruck/audits](https://github.com/MiloTruck/audits) |
+| `mrpotatomagic` | MrPotatoMagic | [MrPotatoMagic/audit-portfolio](https://github.com/MrPotatoMagic/audit-portfolio) |
+| `okiki` | Okiki Omisande | [Okiki-omisande/Past-Audit-Findings](https://github.com/Okiki-omisande/Past-Audit-Findings) |
+| `radeveth` | Radoslav Radev (radev_eth) | [radeveth/web3-security-portfolio](https://github.com/radeveth/web3-security-portfolio) |
 | `romeroadrian` | Adrian Romero | [romeroadrian/audits](https://github.com/romeroadrian/audits) |
 | `sparkware` | Sparkware (JeffCX) | [JeffCX/Sparkware-audit-portfolio](https://github.com/JeffCX/Sparkware-audit-portfolio) |
+| `t1moh` | T1MOH (0xT1MOH) | [T1MOH593/audits](https://github.com/T1MOH593/audits) |
+| `tradmod` | Abdul Rehman (TradMod) | [TradMod/Security-Audits](https://github.com/TradMod/Security-Audits) |
 | `windhustler` | GiuseppeDeLaZara (windhustler) | [windhustler/audits](https://github.com/windhustler/audits) |
+| `xmxanuel` | Manuel (xmxanuel) | [xmxanuel/security-reviews](https://github.com/xmxanuel/security-reviews) |
+| `xuwinnie` | xuwinnie | [xuwinnie/reports](https://github.com/xuwinnie/reports) |
+| `zigtur` | Zigtur | [zigtur/audits](https://github.com/zigtur/audits) |
 | `zobront` | Zobront | [zobront/audits](https://github.com/zobront/audits) |
+| `zzzuhaibmohd` | Zuhaib Mohammed (zzzuhaibmohd) | [zzzuhaibmohd/portfolio](https://github.com/zzzuhaibmohd/portfolio) |

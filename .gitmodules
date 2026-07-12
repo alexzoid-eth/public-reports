@@ -215,3 +215,75 @@
 [submodule "alexzoid"]
 	path = alexzoid
 	url = https://github.com/alexzoid-eth/fv-track-record
+[submodule "kristiyanmaslarov"]
+	path = kristiyanmaslarov
+	url = https://github.com/kristiyanmaslarov/Audits
+[submodule "zigtur"]
+	path = zigtur
+	url = https://github.com/zigtur/audits
+[submodule "jacobolansac"]
+	path = jacobolansac
+	url = https://github.com/JacoboLansac/audits
+[submodule "gkrastenov"]
+	path = gkrastenov
+	url = https://github.com/gkrastenov/audits
+[submodule "bogocvetkov"]
+	path = bogocvetkov
+	url = https://github.com/BogoCvetkov/portfolio
+[submodule "dadekuma"]
+	path = dadekuma
+	url = https://github.com/DadeKuma/audits
+[submodule "leeftk"]
+	path = leeftk
+	url = https://github.com/leeftk/audit-reports
+[submodule "0xnirlin"]
+	path = 0xnirlin
+	url = https://github.com/0xnirlin/Audit-Reports-
+[submodule "alqaqa"]
+	path = alqaqa
+	url = https://github.com/Al-Qa-qa/audits
+[submodule "xmxanuel"]
+	path = xmxanuel
+	url = https://github.com/xmxanuel/security-reviews
+[submodule "0x52"]
+	path = 0x52
+	url = https://github.com/IAm0x52/audit-portfolio
+[submodule "radeveth"]
+	path = radeveth
+	url = https://github.com/radeveth/web3-security-portfolio
+[submodule "xuwinnie"]
+	path = xuwinnie
+	url = https://github.com/xuwinnie/reports
+[submodule "zzzuhaibmohd"]
+	path = zzzuhaibmohd
+	url = https://github.com/zzzuhaibmohd/portfolio
+[submodule "maarcweiss"]
+	path = maarcweiss
+	url = https://github.com/maarcweiss/audits
+[submodule "t1moh"]
+	path = t1moh
+	url = https://github.com/T1MOH593/audits
+[submodule "kiki"]
+	path = kiki
+	url = https://github.com/devNamedKiki/Audits
+[submodule "mahdirostami"]
+	path = mahdirostami
+	url = https://github.com/0xmahdirostami/audits
+[submodule "0xsimao"]
+	path = 0xsimao
+	url = https://github.com/0xsimao/audits
+[submodule "tradmod"]
+	path = tradmod
+	url = https://github.com/TradMod/Security-Audits
+[submodule "kadenzipfel"]
+	path = kadenzipfel
+	url = https://github.com/kadenzipfel/audit-portfolio
+[submodule "mrpotatomagic"]
+	path = mrpotatomagic
+	url = https://github.com/MrPotatoMagic/audit-portfolio
+[submodule "okiki"]
+	path = okiki
+	url = https://github.com/Okiki-omisande/Past-Audit-Findings
+[submodule "ihtisham"]
+	path = ihtisham
+	url = https://github.com/ihtisham-sudo/private-audit-reports
