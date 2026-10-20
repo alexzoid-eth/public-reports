@@ -65,7 +65,7 @@ firms, contest platforms, and independent security researchers.
 | `slowmist` | SlowMist (reports under `open-report-V2/`) | [slowmist/Knowledge-Base](https://github.com/slowmist/Knowledge-Base) |
 | `solidified` | Solidified | [solidified-platform/audits](https://github.com/solidified-platform/audits) |
 | `solidproof` | SolidProof (largest source, ~3.4 GB) | [solidproof/Projects](https://github.com/solidproof/Projects) |
-| `spearbit` | Spearbit | [spearbit/portfolio](https://github.com/spearbit/portfolio) |
+| `spearbit` | Spearbit (archive of `spearbit/portfolio` before the 2026-08 move to Cantina) | [alexzoid-eth/spearbit-portfolio-archive](https://github.com/alexzoid-eth/spearbit-portfolio-archive) |
 | `statemind` | Statemind | [statemindio/public-audits](https://github.com/statemindio/public-audits) |
 | `techaudit` | Tech Audit | [Tech-Audit/Smart-Contract-Audits](https://github.com/Tech-Audit/Smart-Contract-Audits) |
 | `trailofbits` | Trail of Bits | [trailofbits/publications](https://github.com/trailofbits/publications) |
