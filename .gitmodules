@@ -287,3 +287,207 @@
 [submodule "ihtisham"]
 	path = ihtisham
 	url = https://github.com/ihtisham-sudo/private-audit-reports
+[submodule "accretion"]
+	path = accretion
+	url = https://github.com/accretion-xyz/audit-reports
+[submodule "ackee"]
+	path = ackee
+	url = https://github.com/Ackee-Blockchain/public-audit-reports
+[submodule "adevar"]
+	path = adevar
+	url = https://github.com/AdevarLabs/audit-reports
+[submodule "astrasec"]
+	path = astrasec
+	url = https://github.com/astrasecai/audit-reports
+[submodule "audita"]
+	path = audita
+	url = https://github.com/AuditaSecurity/Public-Reports
+[submodule "auditmos"]
+	path = auditmos
+	url = https://github.com/auditmos/audits
+[submodule "auditware"]
+	path = auditware
+	url = https://github.com/Auditware/audits
+[submodule "blaize"]
+	path = blaize
+	url = https://github.com/blaize-security/blaize-security-audits
+[submodule "blockapex"]
+	path = blockapex
+	url = https://github.com/BlockApex/Audit-Reports
+[submodule "bugblow"]
+	path = bugblow
+	url = https://github.com/BugBlow/audits
+[submodule "burrasec"]
+	path = burrasec
+	url = https://github.com/burrasec/Security-Reviews
+[submodule "cairosecurityclan"]
+	path = cairosecurityclan
+	url = https://github.com/Cairo-Security-Clan/Audit-Portfolio
+[submodule "chainlight"]
+	path = chainlight
+	url = https://github.com/chainlight-io/publications
+[submodule "chainsecurityqa"]
+	path = chainsecurityqa
+	url = https://github.com/ChainSecurity/quality-assurance-reports
+[submodule "codespect"]
+	path = codespect
+	url = https://github.com/CODESPECT-security/audit-reports
+[submodule "coinfabrik"]
+	path = coinfabrik
+	url = https://github.com/CoinFabrik/coinfabrik-audit-reports
+[submodule "composable"]
+	path = composable
+	url = https://github.com/ComposableSecurity/.github
+[submodule "cyba"]
+	path = cyba
+	url = https://github.com/cybasecurity/audits
+[submodule "cybring"]
+	path = cybring
+	url = https://github.com/cybring-xyz/audit-reports
+[submodule "d3ploy"]
+	path = d3ploy
+	url = https://github.com/d3ployco/Smart_Contract_Audits
+[submodule "dcentralab"]
+	path = dcentralab
+	url = https://github.com/DcentraLab/DcentraLab-Diligence-Audits
+[submodule "defimoon"]
+	path = defimoon
+	url = https://github.com/Defimoonorg/Audit-Report
+[submodule "dehacker"]
+	path = dehacker
+	url = https://github.com/DeHacker-io/audits_public
+[submodule "enigmadark"]
+	path = enigmadark
+	url = https://github.com/Enigma-Dark/security-review-reports
+[submodule "fyeo"]
+	path = fyeo
+	url = https://github.com/fyeo-io/public-audit-reports
+[submodule "guvenkaya"]
+	path = guvenkaya
+	url = https://github.com/Guvenkaya/public-reports
+[submodule "hashex"]
+	path = hashex
+	url = https://github.com/HashEx/public_audits
+[submodule "hashlock"]
+	path = hashlock
+	url = https://github.com/Hashlock-Auditing/hashlock-audits
+[submodule "hydn"]
+	path = hydn
+	url = https://github.com/hydnsec/audits
+[submodule "immunebytes"]
+	path = immunebytes
+	url = https://github.com/ImmuneBytes-Security-Audit/Smart-Contract-Audit-Reports
+[submodule "immunefi"]
+	path = immunefi
+	url = https://github.com/immunefi-team/Past-Audit-Competitions
+[submodule "inallhonesty"]
+	path = inallhonesty
+	url = https://github.com/inallhonesty/private_audits
+[submodule "inspex"]
+	path = inspex
+	url = https://github.com/InspexCo/audit-reports
+[submodule "iosiro"]
+	path = iosiro
+	url = https://github.com/iosiro/published-audit-reports
+[submodule "ctdsec"]
+	path = ctdsec
+	url = https://github.com/JorgeRodriguezsec/CTDsec
+[submodule "kirillfedoseev"]
+	path = kirillfedoseev
+	url = https://github.com/k1rill-fedoseev/audits
+[submodule "kann"]
+	path = kann
+	url = https://github.com/Kann-Audits/Kann-Audits
+[submodule "lunaray"]
+	path = lunaray
+	url = https://github.com/LunaraySec/Report
+[submodule "maroutis"]
+	path = maroutis
+	url = https://github.com/Maroutis/Private-audits
+[submodule "neplox"]
+	path = neplox
+	url = https://github.com/neploxaudit/publications
+[submodule "nowitness"]
+	path = nowitness
+	url = https://github.com/no-witness-labs/audit-portfolio
+[submodule "nullity"]
+	path = nullity
+	url = https://github.com/nullity00/audits
+[submodule "zkreviews"]
+	path = zkreviews
+	url = https://github.com/nullity00/zk-security-reviews
+[submodule "obsidian"]
+	path = obsidian
+	url = https://github.com/ObsidianAudits/audits
+[submodule "offside"]
+	path = offside
+	url = https://github.com/OffsideLabs/reports
+[submodule "oshield"]
+	path = oshield
+	url = https://github.com/oshieldio/Publications
+[submodule "phage"]
+	path = phage
+	url = https://github.com/phage-security/audits
+[submodule "quarkslab"]
+	path = quarkslab
+	url = https://github.com/quarkslab/public-reports
+[submodule "quillaudits"]
+	path = quillaudits
+	url = https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports
+[submodule "recon"]
+	path = recon
+	url = https://github.com/Recon-Fuzz/audits
+[submodule "resonance"]
+	path = resonance
+	url = https://github.com/ResonanceCybersecurity/audits
+[submodule "safeedges"]
+	path = safeedges
+	url = https://github.com/Safe-Edges/Audit-Portfolio
+[submodule "salus"]
+	path = salus
+	url = https://github.com/Salusec/Salus-audit
+[submodule "scv"]
+	path = scv
+	url = https://github.com/SCV-Security/PublicReports
+[submodule "softstack"]
+	path = softstack
+	url = https://github.com/softstack/Smart-Contract-Security-Audits
+[submodule "solidstate"]
+	path = solidstate
+	url = https://github.com/solidstate-auditing/audits-public
+[submodule "srlabs"]
+	path = srlabs
+	url = https://github.com/srlabs/audit-reports
+[submodule "stronghold"]
+	path = stronghold
+	url = https://github.com/strongholdsec/audits
+[submodule "supremacy"]
+	path = supremacy
+	url = https://github.com/SupremacyTeam/publications
+[submodule "arcadia"]
+	path = arcadia
+	url = https://github.com/TheArcadiaGroup/publications
+[submodule "thesisdefense"]
+	path = thesisdefense
+	url = https://github.com/thesis/defense_public_security-audit-reports
+[submodule "threesigma"]
+	path = threesigma
+	url = https://github.com/threesigmaxyz/publications
+[submodule "tweag"]
+	path = tweag
+	url = https://github.com/tweag/tweag-audit-reports
+[submodule "vacuumlabs"]
+	path = vacuumlabs
+	url = https://github.com/vacuumlabs/audits
+[submodule "valix"]
+	path = valix
+	url = https://github.com/valixconsulting/audit-reports
+[submodule "verilog"]
+	path = verilog
+	url = https://github.com/Verilog-Solutions/.github
+[submodule "zenith"]
+	path = zenith
+	url = https://github.com/zenith-security/reports
+[submodule "zksecurity"]
+	path = zksecurity
+	url = https://github.com/zksecurity/zkbugs
