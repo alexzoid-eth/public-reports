@@ -69,7 +69,7 @@
 	url = https://github.com/Dedaub/audits
 [submodule "exvul"]
 	path = exvul
-	url = https://github.com/ExVul-Sec/AuditReport
+	url = https://github.com/exvulsec/auditreport
 [submodule "g0group"]
 	path = g0group
 	url = https://github.com/g0-group/Audits
@@ -163,7 +163,7 @@
 	url = https://github.com/yAudit/reports
 [submodule "zealynx"]
 	path = zealynx
-	url = https://github.com/ZealynxSecurity/Zealynx
+	url = https://github.com/ZealynxSecurity/audits
 [submodule "zokyo"]
 	path = zokyo
 	url = https://github.com/zokyo-sec/audit-reports

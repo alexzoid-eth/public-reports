@@ -34,7 +34,7 @@ firms, contest platforms, and independent security researchers.
 | `decurity` | Decurity | [Decurity/audits](https://github.com/Decurity/audits) |
 | `dedaub` | Dedaub | [Dedaub/audits](https://github.com/Dedaub/audits) |
 | `egis` | Egis Security | [Egis-Security/audits](https://github.com/Egis-Security/audits) |
-| `exvul` | ExVul | [ExVul-Sec/AuditReport](https://github.com/ExVul-Sec/AuditReport) |
+| `exvul` | ExVul | [exvulsec/auditreport](https://github.com/exvulsec/auditreport) |
 | `g0group` | G0 Group | [g0-group/Audits](https://github.com/g0-group/Audits) |
 | `guardian` | Guardian Audits | [GuardianAudits/Audits](https://github.com/GuardianAudits/Audits) |
 | `guardianlab` | Guardian Audits (Defender) | [GuardianAudits/DefenderAudits](https://github.com/GuardianAudits/DefenderAudits) |
@@ -73,7 +73,7 @@ firms, contest platforms, and independent security researchers.
 | `verichains` | Verichains | [verichains/public-audit-reports](https://github.com/verichains/public-audit-reports) |
 | `yacademy` | yAcademy (yAudit fellowship) | [yAudit/fellowship-audits](https://github.com/yAudit/fellowship-audits) |
 | `yaudit` | yAudit | [yAudit/reports](https://github.com/yAudit/reports) |
-| `zealynx` | Zealynx | [ZealynxSecurity/Zealynx](https://github.com/ZealynxSecurity/Zealynx) |
+| `zealynx` | Zealynx | [ZealynxSecurity/audits](https://github.com/ZealynxSecurity/audits) |
 | `zellic` | Zellic | [Zellic/publications](https://github.com/Zellic/publications) |
 | `zokyo` | Zokyo | [zokyo-sec/audit-reports](https://github.com/zokyo-sec/audit-reports) |
 
