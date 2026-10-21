@@ -524,3 +524,12 @@
 [submodule "pelz"]
 	path = pelz
 	url = https://github.com/DevPelz/DevPelz
+[submodule "tenset"]
+	path = tenset
+	url = https://github.com/tenset-security/audits
+[submodule "shieldsecurity"]
+	path = shieldsecurity
+	url = https://github.com/shield-sc/AuditReport
+[submodule "ruhum"]
+	path = ruhum
+	url = https://github.com/0xruhum/audits

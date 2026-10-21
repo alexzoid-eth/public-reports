@@ -119,6 +119,7 @@ firms, contest platforms, and independent security researchers.
 | `shellboxes` | ShellBoxes | [shellboxes/public-audit-reports](https://github.com/shellboxes/public-audit-reports) |
 | `sherlock` | Sherlock (contest platform) | [sherlock-protocol/sherlock-reports](https://github.com/sherlock-protocol/sherlock-reports) |
 | `shieldify` | Shieldify | [shieldify-security/audits-portfolio](https://github.com/shieldify-security/audits-portfolio) |
+| `shieldsecurity` | Shield Security | [shield-sc/AuditReport](https://github.com/shield-sc/AuditReport) |
 | `sigp` | Sigma Prime | [sigp/public-audits](https://github.com/sigp/public-audits) |
 | `slowmist` | SlowMist (reports under `open-report-V2/`) | [slowmist/Knowledge-Base](https://github.com/slowmist/Knowledge-Base) |
 | `softstack` | Softstack (ex-Chainsulting) | [softstack/Smart-Contract-Security-Audits](https://github.com/softstack/Smart-Contract-Security-Audits) |
@@ -132,6 +133,7 @@ firms, contest platforms, and independent security researchers.
 | `supremacy` | Supremacy | [SupremacyTeam/publications](https://github.com/SupremacyTeam/publications) |
 | `teamomega` | Team Omega | [OmegaAudits/audits](https://github.com/OmegaAudits/audits) |
 | `techaudit` | Tech Audit | [Tech-Audit/Smart-Contract-Audits](https://github.com/Tech-Audit/Smart-Contract-Audits) |
+| `tenset` | Tenset Security | [tenset-security/audits](https://github.com/tenset-security/audits) |
 | `thesisdefense` | Defense by Thesis | [thesis/defense_public_security-audit-reports](https://github.com/thesis/defense_public_security-audit-reports) |
 | `threesigma` | Three Sigma | [threesigmaxyz/publications](https://github.com/threesigmaxyz/publications) |
 | `trailofbits` | Trail of Bits | [trailofbits/publications](https://github.com/trailofbits/publications) |
@@ -184,6 +186,7 @@ firms, contest platforms, and independent security researchers.
 | `pelz` | Pelz (DevPelz) | [DevPelz/DevPelz](https://github.com/DevPelz/DevPelz) |
 | `radeveth` | Radoslav Radev (radev_eth) | [radeveth/web3-security-portfolio](https://github.com/radeveth/web3-security-portfolio) |
 | `romeroadrian` | Adrian Romero | [romeroadrian/audits](https://github.com/romeroadrian/audits) |
+| `ruhum` | Ruhum (0xruhum) | [0xruhum/audits](https://github.com/0xruhum/audits) |
 | `ryzhak` | Vladimir Ryzhak | [ryzhak/audits](https://github.com/ryzhak/audits) |
 | `santipu` | Santipu (santipu03) | [santipu03/santipu03](https://github.com/santipu03/santipu03) |
 | `sparkware` | Sparkware (JeffCX) | [JeffCX/Sparkware-audit-portfolio](https://github.com/JeffCX/Sparkware-audit-portfolio) |
