@@ -21,6 +21,7 @@ firms, contest platforms, and independent security researchers.
 | Directory | Source | Upstream |
 |---|---|---|
 | `0xguard` | 0xGuard | [0xGuard-com/audit-reports](https://github.com/0xGuard-com/audit-reports) |
+| `0xteam` | 0xTeam | [0xTeamAudits/AuditReports](https://github.com/0xTeamAudits/AuditReports) |
 | `abdk` | ABDK Consulting | [abdk-consulting/audits](https://github.com/abdk-consulting/audits) |
 | `accretion` | Accretion | [accretion-xyz/audit-reports](https://github.com/accretion-xyz/audit-reports) |
 | `ackee` | Ackee Blockchain Security | [Ackee-Blockchain/public-audit-reports](https://github.com/Ackee-Blockchain/public-audit-reports) |
@@ -28,6 +29,7 @@ firms, contest platforms, and independent security researchers.
 | `arbitraryexecution` | Arbitrary Execution | [arbitraryexecution/publications](https://github.com/arbitraryexecution/publications) |
 | `arcadia` | Arcadia | [TheArcadiaGroup/publications](https://github.com/TheArcadiaGroup/publications) |
 | `astrasec` | AstraSec | [astrasecai/audit-reports](https://github.com/astrasecai/audit-reports) |
+| `asymmetric` | Asymmetric Research (security advisories) | [asymmetric-research/security-advisories](https://github.com/asymmetric-research/security-advisories) |
 | `audita` | Audita Security | [AuditaSecurity/Public-Reports](https://github.com/AuditaSecurity/Public-Reports) |
 | `auditmos` | Auditmos | [auditmos/audits](https://github.com/auditmos/audits) |
 | `auditware` | Auditware | [Auditware/audits](https://github.com/Auditware/audits) |
@@ -40,6 +42,7 @@ firms, contest platforms, and independent security researchers.
 | `cairosecurityclan` | Cairo Security Clan | [Cairo-Security-Clan/Audit-Portfolio](https://github.com/Cairo-Security-Clan/Audit-Portfolio) |
 | `cdsecurity` | CD Security | [CDSecurity/audits](https://github.com/CDSecurity/audits) |
 | `certora` | Certora | [Certora/SecurityReports](https://github.com/Certora/SecurityReports) |
+| `chaindefenders` | Chain Defenders | [Chain-Defenders/portfolio](https://github.com/Chain-Defenders/portfolio) |
 | `chainlight` | ChainLight (Theori) | [chainlight-io/publications](https://github.com/chainlight-io/publications) |
 | `chainsafe` | ChainSafe | [ChainSafe/audits](https://github.com/ChainSafe/audits) |
 | `chainsecurityqa` | ChainSecurity (QA reviews) | [ChainSecurity/quality-assurance-reports](https://github.com/ChainSecurity/quality-assurance-reports) |
@@ -82,9 +85,11 @@ firms, contest platforms, and independent security researchers.
 | `kalos` | KALOS | [kalos-xyz/Publications](https://github.com/kalos-xyz/Publications) |
 | `kann` | Kann Audits | [Kann-Audits/Kann-Audits](https://github.com/Kann-Audits/Kann-Audits) |
 | `lunaray` | Lunaray | [LunaraySec/Report](https://github.com/LunaraySec/Report) |
+| `macro` | Macro (0xMacro; website sources, never update recursively: contains a private submodule) | [0xMacro/library](https://github.com/0xMacro/library) |
 | `matterlabs` | Matter Labs | [matter-labs-audits/reports](https://github.com/matter-labs-audits/reports) |
 | `midgar` | Midgar | [midgar-audits/public-audits](https://github.com/midgar-audits/public-audits) |
 | `mixbytes` | MixBytes | [mixbytes/audits_public](https://github.com/mixbytes/audits_public) |
+| `monethic` | Monethic | [Monethic/portfolio](https://github.com/Monethic/portfolio) |
 | `neplox` | Neplox | [neploxaudit/publications](https://github.com/neploxaudit/publications) |
 | `nethermind` | Nethermind | [NethermindEth/PublicAuditReports](https://github.com/NethermindEth/PublicAuditReports) |
 | `nowitness` | No Witness Labs | [no-witness-labs/audit-portfolio](https://github.com/no-witness-labs/audit-portfolio) |
@@ -97,6 +102,7 @@ firms, contest platforms, and independent security researchers.
 | `peckshield` | PeckShield | [peckshield/publications](https://github.com/peckshield/publications) |
 | `pessimistic` | Pessimistic | [pessimistic-io/audits](https://github.com/pessimistic-io/audits) |
 | `phage` | Phage Security | [phage-security/audits](https://github.com/phage-security/audits) |
+| `prototech` | Prototech Labs | [Prototech-Labs/published-work](https://github.com/Prototech-Labs/published-work) |
 | `quarkslab` | Quarkslab | [quarkslab/public-reports](https://github.com/quarkslab/public-reports) |
 | `quillaudits` | QuillAudits | [Quillhash/QuillAudit_smart_contract_audit_Reports](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports) |
 | `rapidlabs` | Rapid Labs | [rapidlabsfinance/reports](https://github.com/rapidlabsfinance/reports) |
@@ -124,6 +130,7 @@ firms, contest platforms, and independent security researchers.
 | `statemind` | Statemind | [statemindio/public-audits](https://github.com/statemindio/public-audits) |
 | `stronghold` | Stronghold Security | [strongholdsec/audits](https://github.com/strongholdsec/audits) |
 | `supremacy` | Supremacy | [SupremacyTeam/publications](https://github.com/SupremacyTeam/publications) |
+| `teamomega` | Team Omega | [OmegaAudits/audits](https://github.com/OmegaAudits/audits) |
 | `techaudit` | Tech Audit | [Tech-Audit/Smart-Contract-Audits](https://github.com/Tech-Audit/Smart-Contract-Audits) |
 | `thesisdefense` | Defense by Thesis | [thesis/defense_public_security-audit-reports](https://github.com/thesis/defense_public_security-audit-reports) |
 | `threesigma` | Three Sigma | [threesigmaxyz/publications](https://github.com/threesigmaxyz/publications) |
@@ -154,6 +161,7 @@ firms, contest platforms, and independent security researchers.
 | `alqaqa` | Al-Qa'qa' (Al-Qa-qa) | [Al-Qa-qa/audits](https://github.com/Al-Qa-qa/audits) |
 | `bogocvetkov` | Bogomil Tsvetkov (b0g0) | [BogoCvetkov/portfolio](https://github.com/BogoCvetkov/portfolio) |
 | `dadekuma` | DadeKuma | [DadeKuma/audits](https://github.com/DadeKuma/audits) |
+| `darklinear` | Darklinear (Ethan Bennett) | [Darklinear-Solutions/portfolio](https://github.com/Darklinear-Solutions/portfolio) |
 | `frankcastle` | Frank Castle | [Frankcastleauditor/public-audits](https://github.com/Frankcastleauditor/public-audits) |
 | `gkrastenov` | Georgi Krastenov (gkrastenov) | [gkrastenov/audits](https://github.com/gkrastenov/audits) |
 | `ihtisham` | Ihtisham Ullah (ihtisham-sudo) | [ihtisham-sudo/private-audit-reports](https://github.com/ihtisham-sudo/private-audit-reports) |
@@ -173,8 +181,11 @@ firms, contest platforms, and independent security researchers.
 | `mrpotatomagic` | MrPotatoMagic | [MrPotatoMagic/audit-portfolio](https://github.com/MrPotatoMagic/audit-portfolio) |
 | `nullity` | nullity00 | [nullity00/audits](https://github.com/nullity00/audits) |
 | `okiki` | Okiki Omisande | [Okiki-omisande/Past-Audit-Findings](https://github.com/Okiki-omisande/Past-Audit-Findings) |
+| `pelz` | Pelz (DevPelz) | [DevPelz/DevPelz](https://github.com/DevPelz/DevPelz) |
 | `radeveth` | Radoslav Radev (radev_eth) | [radeveth/web3-security-portfolio](https://github.com/radeveth/web3-security-portfolio) |
 | `romeroadrian` | Adrian Romero | [romeroadrian/audits](https://github.com/romeroadrian/audits) |
+| `ryzhak` | Vladimir Ryzhak | [ryzhak/audits](https://github.com/ryzhak/audits) |
+| `santipu` | Santipu (santipu03) | [santipu03/santipu03](https://github.com/santipu03/santipu03) |
 | `sparkware` | Sparkware (JeffCX) | [JeffCX/Sparkware-audit-portfolio](https://github.com/JeffCX/Sparkware-audit-portfolio) |
 | `t1moh` | T1MOH (0xT1MOH) | [T1MOH593/audits](https://github.com/T1MOH593/audits) |
 | `tradmod` | Abdul Rehman (TradMod) | [TradMod/Security-Audits](https://github.com/TradMod/Security-Audits) |

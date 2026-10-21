@@ -491,3 +491,36 @@
 [submodule "zksecurity"]
 	path = zksecurity
 	url = https://github.com/zksecurity/zkbugs
+[submodule "macro"]
+	path = macro
+	url = https://github.com/0xMacro/library
+[submodule "teamomega"]
+	path = teamomega
+	url = https://github.com/OmegaAudits/audits
+[submodule "chaindefenders"]
+	path = chaindefenders
+	url = https://github.com/Chain-Defenders/portfolio
+[submodule "monethic"]
+	path = monethic
+	url = https://github.com/Monethic/portfolio
+[submodule "0xteam"]
+	path = 0xteam
+	url = https://github.com/0xTeamAudits/AuditReports
+[submodule "prototech"]
+	path = prototech
+	url = https://github.com/Prototech-Labs/published-work
+[submodule "asymmetric"]
+	path = asymmetric
+	url = https://github.com/asymmetric-research/security-advisories
+[submodule "santipu"]
+	path = santipu
+	url = https://github.com/santipu03/santipu03
+[submodule "darklinear"]
+	path = darklinear
+	url = https://github.com/Darklinear-Solutions/portfolio
+[submodule "ryzhak"]
+	path = ryzhak
+	url = https://github.com/ryzhak/audits
+[submodule "pelz"]
+	path = pelz
+	url = https://github.com/DevPelz/DevPelz
